@@ -52,7 +52,7 @@ Before running the bot for the first time, make sure you install the required de
 ### For Windows: Using Precompiled `.exe` File
 
 1. **Download the `.exe` File**  
-   Download the precompiled `.exe` file from the [releases section](https://github.com/your-username/gh-to-tg-bot/releases).
+   Download the precompiled `.exe` file from the [releases section](https://github.com/Deep-Dark-Forest/gh-to-tg-bot/releases).
 
 2. **Set Up the Environment Variables**
 
@@ -80,7 +80,7 @@ If you're using Linux, follow the instructions below to run the bot from source 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/gh-to-tg-bot.git
+   git clone https://github.com/Deep-Dark-Forest/gh-to-tg-bot.git
    cd gh-to-tg-bot
    ```
 
