@@ -32,8 +32,7 @@ jobs:
         pyinstaller --onefile --distpath dist --workpath build gh-to-tg-bot.py  # Build the .exe file using PyInstaller
 
     - name: Upload .exe as artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: gh-to-tg-bot-exe
         path: dist/gh-to-tg-bot.exe  # Upload the .exe file generated in the dist folder
-
